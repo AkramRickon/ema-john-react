@@ -1,0 +1,29 @@
+.name{
+    color: rgb(0, 0, 255);
+    font-weight: 400;;
+    
+}
+.product{
+    display:flex;
+    gap: 15px;
+    border-bottom:1px solid rgb(194, 191, 191);
+    margin-right: 5px;
+}
+.addButton{
+    width:120px;
+    height:30px;
+    background-color: goldenrod;
+    border:1px solid grey;
+    border-radius: 3px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.removeButton{
+    width:180px;
+    height:30px;
+    background-color: goldenrod;
+    border:1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
